@@ -1,0 +1,2 @@
+# Workshop
+ For GenAI workshop
